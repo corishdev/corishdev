@@ -1,7 +1,5 @@
-👋 Hi, I’m @dbcorish
-
-👀 I’m interested in game development and mobile apps, I plan on uploading side projects to this Github as I learn more!
-
-🌱 I’m currently learning Godot and Unreal Engine 5
-
-📫 You can reach me at davidcorish99@gmail.com
+👋 Hi, I'm David Corish
+💼 Software Engineer at Salesforce - specialising in ITAM, Service Cloud, and enterprise platform development
+🎮 Passionate about game development and VR - projects built in Godot, Unity, and Blender
+🎓 MSc Computer Science, Maynooth University | 3x Salesforce Certified
+📫 davidcorish99@gmail.com
